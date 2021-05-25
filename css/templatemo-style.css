@@ -211,6 +211,10 @@ html {
 	height: 225px;
 }
 
+.tm-person-img {
+	object-fit: none;
+}
+
 body {
 	font-family: "Open Sans", Arial, sans-serif;
 	font-size: 17px;
